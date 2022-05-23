@@ -7,16 +7,16 @@
     "dialect": "postgres"
   },
   "test": {
-    "username": "root",
+    "username": "postgres",
     "password": "fb181210",
-    "database": "database_test",
+    "database": "games",
     "host": "localhost",
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
+    "username": "postgres",
     "password": "fb181210",
-    "database": "database_production",
+    "database": "games",
     "host": "localhost",
     "dialect": "postgres"
   }
